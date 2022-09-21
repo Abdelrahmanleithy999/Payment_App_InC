@@ -1,0 +1,4 @@
+ Transation info 
+  Transaction Date :  
+ transaction status  : DECLINED
+Transation saved thanks for banking with us 

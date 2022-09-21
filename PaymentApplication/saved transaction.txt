@@ -1,0 +1,9 @@
+ Transation info 
+  Transaction Date :  
+Tue Aug 23 12:42:43 2022
+Name Holder :AbdelrahmanMahmoudEhab 
+ PAN Number : QQQBABCJADFGH1234Z
+Remind Money : 9980.000000 
+Order of transaction  : 1
+ transaction status  : 20.000000
+Transation saved thanks for banking with us 
